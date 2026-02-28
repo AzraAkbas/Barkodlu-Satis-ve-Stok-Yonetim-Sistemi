@@ -1,0 +1,1 @@
+# Barkodlu-Satis-ve-Stok-Yonetim-Sistemi
